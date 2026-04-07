@@ -8,8 +8,8 @@ created: '2024-12-03'
 modified: '2026-03-16'
 position: Consumer
 tags:
-  - Federal Government
   - Aviation
+  - Federal Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/federal-aviation-administration/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -18,7 +18,6 @@ apis:
     name: Federal Aviation Administration
     tags:
       - Aviation
-      - API
     humanURL: https://www.faa.gov/data_research/computer_testing/airmen_selection/
     properties:
       - url: https://www.faa.gov/data_research
