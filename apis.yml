@@ -123,6 +123,10 @@ apis:
       - type: Documentation
         url: https://www.faa.gov/air_traffic/technology/swim
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Federal-Aviation-Administration
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/faa
   - type: Website
     url: https://www.faa.gov/
   - type: Documentation
