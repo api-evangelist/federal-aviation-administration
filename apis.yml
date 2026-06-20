@@ -8,7 +8,7 @@ description: >-
   registries, and System Wide Information Management (SWIM) feeds for
   air traffic operations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2024-12-03'
 modified: '2026-04-28'
@@ -28,7 +28,7 @@ apis:
       pilot's decision to make a flight. The API allows developers to query
       active NOTAMs by location, type, and effective date for use in flight
       planning and situational awareness applications.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://api.faa.gov/notamapi/
     baseURL: https://external-api.faa.gov/notamapi/v1
     tags:
@@ -46,7 +46,7 @@ apis:
       airports. Developers can use the service to retrieve real-time status
       information for use in flight planning, traveler-facing applications,
       and operational dashboards.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.faa.gov/data_research/aviation_data_statistics
     baseURL: https://soa.smext.faa.gov/asws
     tags:
@@ -64,7 +64,7 @@ apis:
       airways, fixes, and special-use airspace on a 28-day publication cycle.
       The data is the source of truth used to update aeronautical charts and
       flight planning systems.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://nfdc.faa.gov/nfdcApps/services/ajv5/airportSubscriberFile.jsp
     tags:
       - Aeronautical Information
@@ -80,7 +80,7 @@ apis:
       pilots and other airmen in the United States, including pilot
       certificates, ratings, and medical certificates. The dataset supports
       verification, research, and analytics use cases.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.faa.gov/licenses_certificates/airmen_certification/releasable_airmen_download
     tags:
       - Airmen
@@ -96,7 +96,7 @@ apis:
       registered in the United States, including registration, ownership, and
       airworthiness information. The dataset is widely used for safety
       analysis, fleet research, and aircraft tracking applications.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download
     tags:
       - Aircraft
@@ -113,7 +113,7 @@ apis:
       National Airspace System data to authorized consumers. SWIM publishes
       message-oriented data streams covering flight, weather, surveillance,
       and aeronautical information through a common infrastructure.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.faa.gov/air_traffic/technology/swim
     tags:
       - Air Traffic
